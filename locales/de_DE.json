@@ -340,8 +340,8 @@
 		},
 		"search": {
 			"title": "Hast du ein Fehlercode bekommen?",
-			"caption": "Schreib es in das untere Feld um Informationen zu deinem Problem zu erhalten!",
-			"label": "Fehlercode",
+			"caption": "Um Informationen zu Ihren problemen zu erhalten Schreiben sie was für ein Problem sie haben unten in die Box",
+			"label": "Fehler nummer",
 			"no_match": "Keine Ergebnisse"
 		},
 		"sidebar": {
